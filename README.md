@@ -18,13 +18,13 @@ This landing page project was undertaken as a self-imposed challenge to enhance 
 
    ![Dark Mode](/images/DarkMode%20(1).png)    
    ![Dark Mode](/images/DarkMode%20(2).png)    ![Dark Mode](/images/DarkMode%20(3).png)
-   ![Dark Mode](/images/DarkMode%20(4).png)    ![Dark Mode](/images/DarkMode%20(5).png)
+   ![Dark Mode](/images/DarkMode%20(4).png)    ![Dark Mode](/images/DarkMode%20(6).png)
 
 - **Light Mode**
 
    ![Light Mode](/images/LightMode%20(1).png)    
    ![Light Mode](/images/LightMode%20(2).png)    ![Light Mode](/images/LightMode%20(3).png)
-   ![Light Mode](/images/LightMode%20(4).png)    ![Light Mode](/images/LightMode%20(5).png)
+   ![Light Mode](/images/LightMode%20(4).png)    ![Light Mode](/images/LightMode%20(6).png)
 
 
 
